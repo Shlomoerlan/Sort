@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kodcode\\source\\repos\\SortB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A885D468-7C16-48DD-9F2C-C3DA3BB4CF3C}|SortB\\SortB.csproj|c:\\users\\kodcode\\source\\repos\\sortb\\sortb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A885D468-7C16-48DD-9F2C-C3DA3BB4CF3C}|SortB\\SortB.csproj|solutionrelative:sortb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 225,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kodcode\\source\\repos\\SortB\\SortB\\Program.cs",
+              "RelativeDocumentMoniker": "SortB\\Program.cs",
+              "ToolTip": "C:\\Users\\kodcode\\source\\repos\\SortB\\SortB\\Program.cs*",
+              "RelativeToolTip": "SortB\\Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T07:14:24.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

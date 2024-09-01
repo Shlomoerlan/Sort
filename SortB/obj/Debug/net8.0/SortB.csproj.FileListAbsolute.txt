@@ -1,0 +1,14 @@
+C:\Users\kodcode\source\repos\SortB\SortB\bin\Debug\net8.0\SortB.exe
+C:\Users\kodcode\source\repos\SortB\SortB\bin\Debug\net8.0\SortB.deps.json
+C:\Users\kodcode\source\repos\SortB\SortB\bin\Debug\net8.0\SortB.runtimeconfig.json
+C:\Users\kodcode\source\repos\SortB\SortB\bin\Debug\net8.0\SortB.dll
+C:\Users\kodcode\source\repos\SortB\SortB\bin\Debug\net8.0\SortB.pdb
+C:\Users\kodcode\source\repos\SortB\SortB\obj\Debug\net8.0\SortB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kodcode\source\repos\SortB\SortB\obj\Debug\net8.0\SortB.AssemblyInfoInputs.cache
+C:\Users\kodcode\source\repos\SortB\SortB\obj\Debug\net8.0\SortB.AssemblyInfo.cs
+C:\Users\kodcode\source\repos\SortB\SortB\obj\Debug\net8.0\SortB.csproj.CoreCompileInputs.cache
+C:\Users\kodcode\source\repos\SortB\SortB\obj\Debug\net8.0\SortB.dll
+C:\Users\kodcode\source\repos\SortB\SortB\obj\Debug\net8.0\refint\SortB.dll
+C:\Users\kodcode\source\repos\SortB\SortB\obj\Debug\net8.0\SortB.pdb
+C:\Users\kodcode\source\repos\SortB\SortB\obj\Debug\net8.0\SortB.genruntimeconfig.cache
+C:\Users\kodcode\source\repos\SortB\SortB\obj\Debug\net8.0\ref\SortB.dll
